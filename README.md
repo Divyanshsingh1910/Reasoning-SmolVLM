@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="Project Logo" width="200"/> 
+  <!-- Adjust width as needed -->
+</p>
+
 # CS776 Project: Reasoning on a Toaster: Enhancing Small Vision-Language Models via Simplified Chain-of-Thought Fine-tuningReasoning Vision 
 
 #### Team
